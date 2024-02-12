@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## 🚀 About Me
+I'm a Network Automation Engineer, that is so interested in Network Automation, Network Programmability, and NetDevOps CI/CD.
+
+
 <!--
 **emomeni/emomeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
