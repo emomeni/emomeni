@@ -19,6 +19,10 @@ Ansible, Git, Python, Network Automation Libraries, and Frameworks such as Netmi
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanmomenibashusqeh/)
 
+## :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emomeni&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **emomeni/emomeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
