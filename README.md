@@ -1,7 +1,7 @@
 # Hi, I'm Ehsan! 👋
 
 ## 🚀 About Me
-I'm a Network Automation Engineer, who is so interested in Network Automation, Network Programmability, and NetDevOps CI/CD.
+I'm a Senior Network Engineer and Network Automation Engineer, who is very interested in Network Automation, Network Programmability, and NetDevOps CI/CD.
 
 ## 🛠 Skills
 Ansible, Git, Docker, Python, Network Automation Libraries, and Frameworks such as Netmiko, Scrapli, NAPALM, and Nornir.
