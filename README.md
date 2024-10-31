@@ -23,6 +23,8 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
   <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cisco_logo.svg" title="Cisco pyATS" alt="Cisco pyATS" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Cisco_logo.svg" title="Cisco Genie" alt="Cisco Genie" width="40" height="40"/>&nbsp;
 </div>
 
 ## 🔗 Links
