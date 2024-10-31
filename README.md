@@ -5,6 +5,7 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
 
 ## 🛠 Skills
 Ansible, Git, Docker, Python, Network Automation Libraries, and Frameworks such as Netmiko, Scrapli, NAPALM, and Nornir.
+* Ansible
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
