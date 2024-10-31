@@ -42,6 +42,7 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=emomeni&show_icons=true&theme=dracula)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=emomeni&color=green)
 
 <!--
 **emomeni/emomeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
