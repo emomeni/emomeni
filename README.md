@@ -41,6 +41,15 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emomeni&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=emomeni&show_icons=true&theme=default)
+
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=emomeni)
+
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=emomeni&theme=default)
+
 <!--
 **emomeni/emomeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
