@@ -15,6 +15,7 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
   * NAPALM
   * Nornir
 * pyATS & Genie (Network Test & Automation Solution)
+* pytest (Python Testing Framework)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
