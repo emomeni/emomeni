@@ -39,10 +39,6 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emomeni&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=emomeni&show_icons=true&theme=dracula)
-
 ![Trophies](https://github-profile-trophy.vercel.app/?username=emomeni&theme=onedark)
 
 <!--
