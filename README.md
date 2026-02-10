@@ -1,4 +1,4 @@
-# Hi, I'm Ehsan! 👋
+# Hi, I'm Ehsan!
 
 ## Senior Network Engineer | Network Automation Specialist
 
@@ -40,14 +40,3 @@ I specialize in modernizing network infrastructure through automation, programma
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanmomenibashusqeh/)
-
-## 🚀 GitHub Activity & Achievements
-
-<p align="center">
-
-<img height="165" src="https://streak-stats.demolab.com?user=emomeni&theme=dark&hide_border=true" />
-
-<img height="165" src="https://github-profile-trophy.vercel.app/?username=emomeni&theme=onedark&no-frame=true&row=1&column=6" />
-
-</p>
-
