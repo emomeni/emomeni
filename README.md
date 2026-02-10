@@ -35,14 +35,11 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanmomenibashusqeh/)
 
-## :fire: My Stats :
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=emomeni&theme=onedark)
-
-<!--
-**emomeni/emomeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 GitHub Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=emomeni&theme=dark" />
+<img src="https://github-profile-trophy.vercel.app/?username=emomeni&theme=onedark&row=1&column=6" />
+</p>
 
 Here are some ideas to get you started:
 
