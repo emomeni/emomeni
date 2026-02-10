@@ -45,9 +45,8 @@ I specialize in modernizing network infrastructure through automation, programma
 
 <p align="center">
 
-<a href="https://www.youtube.com/@ehsanmomeni007" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Ehsan%20Momeni-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<a href="https://www.youtube.com/@ehsanmomeni007">
+<img src="https://img.shields.io/youtube/channel/subscribers/UC?style=for-the-badge&logo=youtube&color=red"/>
 </a>
 
 </p>
-
