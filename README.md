@@ -41,12 +41,10 @@ I specialize in modernizing network infrastructure through automation, programma
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanmomenibashusqeh/)
 
-## YouTube Channel
+## Learn Network Automation with Me
 
 <p align="center">
-
-<a href="https://www.youtube.com/@ehsanmomeni007">
-<img src="https://img.shields.io/youtube/channel/subscribers/UC?style=for-the-badge&logo=youtube&color=red"/>
-</a>
-
+  <a href="https://www.youtube.com/@ehsanmomeni007">
+    <img src="https://img.shields.io/badge/Watch%20on%20YouTube-Ehsan%20Momeni-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
