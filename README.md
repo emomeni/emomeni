@@ -36,7 +36,9 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanmomenibashusqeh/)
 
 ## 🚀 GitHub Stats
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=emomeni&theme=dark" />
-<img src="https://github-profile-trophy.vercel.app/?username=emomeni&theme=onedark&row=1&column=6" />
+
+<img src="https://streak-stats.demolab.com?user=emomeni&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
 </p>
