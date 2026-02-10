@@ -35,16 +35,13 @@ I'm a Senior Network Engineer and Network Automation Engineer, who is very inter
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ehsanmomenibashusqeh/)
 
-## 🤖 NetDevOps GitHub Metrics
+## 🚀 GitHub Activity & Achievements
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=emomeni&theme=dark&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com?user=emomeni&theme=dark&hide_border=true" />
+
+<img height="165" src="https://github-profile-trophy.vercel.app/?username=emomeni&theme=onedark&no-frame=true&row=1&column=6" />
 
 </p>
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=emomeni&theme=onedark&no-frame=true&margin-w=8" />
-
-</p>
